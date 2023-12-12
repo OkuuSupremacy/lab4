@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "427030144209",
+    "firebase_url": "https://lab4-razin-3d718-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lab4-razin-3d718",
+    "storage_bucket": "lab4-razin-3d718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427030144209:android:bf1aaba71cc5c129f9d1f0",
+        "android_client_info": {
+          "package_name": "com.example.lab4_razin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgYNWnU5YWQspBan5aHV7GoxbdDs48oT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
